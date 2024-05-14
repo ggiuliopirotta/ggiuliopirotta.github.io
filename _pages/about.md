@@ -7,4 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm Giulio, a first year MSc student in Artificial Intelligence passionate about computational game theory and reinforcement learning.
+I'm Giulio, a first year MSc student in Artificial Intelligence passionate about:
+- 🕹️ game theory
+- 🤖 reinforcement learning
+
+Although my interests spans across a wider range of topics in the field of AI,  
+I prefer to focus on how agents interact with each other and the surrounding environment,  
+both in cooperative and competitive scenarios.
