@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Nice to meet you, I'm Giulio.  
-I am a first year MSc student in Artificial Intelligence at Bocconi University, Milan.
+I'm Giulio, a first year MSc student in Artificial Intelligence passionate about computational game theory and reinforcement learning.
