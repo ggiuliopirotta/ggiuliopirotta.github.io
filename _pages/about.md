@@ -17,9 +17,9 @@ my focus is on how smart 🧠 agents interact with each other and the surroundin
 both in cooperative and competitive scenarios.
 
 I've just finished working on my BSc thesis, where I explored the use of variational inference  
-for intractable posterior distributions, such as in the context of topic modeling 📜.
+for intractable posterior distributions, such as in the context of topic modeling.
 
-Currently, I'm trying to implement an intelligent 🃏 blackjack bot,  
-which will hopefully be able to develop a consistently winning strategy!
+As a side project, I'm trying to implement an intelligent blackjack bot,  
+which will hopefully be able to autonomously learn a consistently winning 💸 strategy!
 
-Check out my not-so-updated [portfolio](/portfolio) and take a look at my web app!
+Check out my [portfolio](/portfolio) and take a look at my web app!
