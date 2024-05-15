@@ -12,14 +12,14 @@ I'm Giulio, a first year MSc student in Artificial Intelligence passionate about
 - 🕹️ game theory
 - 🤖 reinforcement learning
 
-Although my interests spans across a wider range of ML and AI topics,  
-my focus is on how 🧠 smart agents interact with each other and the surrounding environment,  
+Although my interests span across a wider range of ML and AI topics,  
+my focus is on how smart 🧠 agents interact with each other and the surrounding environment,  
 both in cooperative and competitive scenarios.
 
-I've just finished working on my 📜 BSc thesis, where I explored the use of variational inference  
-for intractable posterior distributions, such as in the context of topic modeling.
+I've just finished working on my BSc thesis, where I explored the use of variational inference  
+for intractable posterior distributions, such as in the context of topic modeling 📜.
 
-Currently, I'm trying to develop an intelligent blackjack bot,  
-which will hopefully be able to autonomously craft a consistently 💸 winning strategy!
+Currently, I'm trying to implement an intelligent 🃏 blackjack bot,  
+which will hopefully be able to develop a consistently winning strategy!
 
 Check out my not-so-updated [portfolio](/portfolio) and take a look at my web app!
