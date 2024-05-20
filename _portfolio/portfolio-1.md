@@ -1,14 +1,18 @@
 ---
 title: "Housing price prediction"
-excerpt: "Classic price regression problem with a standard dataset"
+excerpt: "Classic price regression problem with a standard dataset. <br/><img src='/images/30412_features.png'>"
 collection: portfolio
 ---
 
-Although the price regression problem is not an advanced task,  
-I decided to include it as it was the final project for my first Machine Learning class at college.
+Being provided with a messy dataset, a good part of the project was devoted to  
+cleaning and preprocessing 🧹 the dataframe.
 
-The dataset was not clean at the beginning and the primary goal of the project was to focus on the parts of cleaning and preprocessing, and then on the evaluation metrics.
+A couple of constraints were also given:
 
-Specifically, one constraint was to reduce the least amount (possibly zero) of rows from the dataset.
+- Use all observations and as many features as possible
+- Test just 2 models
 
-Download ⬇️ the [folder]() containing the Jupyter notebook and the dataset.
+Download ⬇️ the [folder](files/30412_competition) containing the dataset and the Jupyter notebook.
+
+P.S. This was the project for my first Machine Learning class, so don't expect too much 😅
+
