@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Giulio, a first year MSc student in Artificial Intelligence passionate about:
+I'm Giulio, a first year MSc student in AI passionate about:
 
 - 🕹️ game theory
 - 🤖 reinforcement learning
