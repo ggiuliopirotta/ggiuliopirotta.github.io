@@ -14,5 +14,3 @@ Download ⬇️ the [folder](/files/30412_competition.zip) with the relevant fil
 ![Feature importances plot](/images/30412_features.png){: width="450"}
 
 P.S. This was the project for my first ML class, so don't expect too much 😅
-
-
