@@ -5,6 +5,6 @@ collection: portfolio
 ---
 
 The scope of this project was to build a convolutional neural network for image recognition.  
-Specifically, the images pictured human faces, with the network being trained to  
-first classify them, and then verify the identity.
+Specifically, the images pictured human faces, with the model being trained to  
+both detect and verify the identity.
 

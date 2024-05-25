@@ -5,10 +5,16 @@ collection: portfolio
 ---
 
 In this data mining class, we had to conduct an analysis with some business application.  
-The dataset chosen was clean, but massive,  
-forcing us to undersample it to make it manageable.
+The dataset chosen was clean, but massive, forcing us to take a subsample of it.
 
-It was also unbalanced and required some feature engineering. Finally, we decided to include some whether-specific features leveraging an external API.
+To increase the number of useful features:
+
+- Airport-specific weather information 🌤️ was gathered from an API
+- Additional feature engineering was performed
+
+It finally required further subsampling, as it was unbalanced ⚖️ towards non-canceled flights,  
+but we could not let the model develop any bias.
 
 Download ⬇️ the folder with the relevant files.
+
 
