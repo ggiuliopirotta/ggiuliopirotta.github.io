@@ -1,5 +1,7 @@
 ---
 title: "Speech recognition pt. 2"
-excerpt: "Audio-to-text conversion with a transformer model."
+excerpt: "Audio-to-text conversion with a transformer model. <br/><img src='/images/transformer.png'>"
 collection: portfolio
 ---
+
+In this project, I built a transformer model for speech recognition.
