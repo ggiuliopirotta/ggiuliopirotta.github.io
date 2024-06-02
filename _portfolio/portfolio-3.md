@@ -13,7 +13,7 @@ To increase the number of useful features:
 - Additional feature engineering was performed
 
 It finally required further subsampling, as it was unbalanced ⚖️ towards non-canceled flights,  
-but we could not let the model develop any bias.
+but the model should not develop any bias.
 
 Download ⬇️ the folder with the relevant files.
 
