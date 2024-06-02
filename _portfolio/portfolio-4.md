@@ -1,6 +1,6 @@
 ---
 title: "Image recognition"
-excerpt: "Image detection and verification with a convolutional network. <br/><img src='/images/neo_vs_smith.png'>"
+excerpt: "Image detection and verification with a convolutional network. <br/><img src='/images/fight_club.png'>"
 collection: portfolio
 ---
 
