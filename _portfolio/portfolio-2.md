@@ -1,6 +1,6 @@
 ---
 title: "Automatic speech recognition"
-excerpt: "Audio-to-text conversion with a standard and recurrent neural network. <br/><img src='/images/coach_carter_timo.png'>"
+excerpt: "Audio-to-text conversion with a standard and recurrent neural network. <br/><img src='/images/speech.png'>"
 collection: portfolio
 ---
 
