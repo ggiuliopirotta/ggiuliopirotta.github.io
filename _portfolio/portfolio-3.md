@@ -1,20 +1,16 @@
 ---
 title: "Flight cancellations classification"
-excerpt: "Classification problem with a massive dataset."
+excerpt: "Classification problem with a quite big dataset."
 collection: portfolio
 ---
 
-In this data mining class, we had to conduct an analysis with some business application.  
-The dataset chosen was clean, but massive, forcing us to take a subsample of it.
+Main challenges:
+- subsampling a massive dataset
+- including airport-specific weather information through an API
+- balancing the dataset to prevent bias in the model
 
-To increase the number of useful features:
+Download ⬇️ the [folder](/files/70374-Project.zip) with the relevant files.
 
-- Airport-specific weather information 🌤️ was gathered from an API
-- Additional feature engineering was performed
-
-It finally required further subsampling, as it was unbalanced ⚖️ towards non-canceled flights,  
-but the model should not develop any bias.
-
-Download ⬇️ the folder with the relevant files.
+![Feature importances plot](/images/70374-features.png){: width="450"}
 
 

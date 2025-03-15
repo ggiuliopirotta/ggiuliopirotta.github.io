@@ -4,7 +4,7 @@ title                    : "Giulio's homepage"
 title_separator          : "-"
 name                     : &name "Giulio Pirotta"
 description              : &description "personal description"
-url                      : https://ggiuliopirotta.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ggiuliopirotta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site
 repository               : "ggiuliopirotta/ggiuliopirotta.github.io"
 

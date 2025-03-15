@@ -1,6 +1,6 @@
 main:
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /files/Giulio-Pirotta-resume.pdf
     
   - title: "Portfolio"
     url: /portfolio/

@@ -50,18 +50,18 @@ $caption-font-family        : $serif;
 @include breakpoint-set("to ems", true);
 
 $small                      : 600px !default;
-$medium                     : 768px !default;
+$medium                     : 770px !default;
 $medium-wide                : 900px !default;
-$large                      : 925px !default;
-$x-large                    : 1280px !default;
+$large                      : 950px !default;
+$x-large                    : 1300px !default;
 
 /* ==========================================================================
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 20px !default;
-$right-sidebar-width        : 30px !default;
-$right-sidebar-width-wide   : 40px !default;
+$right-sidebar-width-narrow : 10px !default;
+$right-sidebar-width        : 10px !default;
+$right-sidebar-width-wide   : 10px !default;
 
 $susy: (
     columns: 12,
